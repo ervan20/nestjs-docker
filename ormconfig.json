@@ -1,0 +1,11 @@
+{
+    "type": "postgres",
+    "host": "postgres-7rYx",
+    "port": 55001,
+    "username": "pgadmin4@pgadmin.org",
+    "database": "postgres",
+    "password": "admin",
+    "synchronize": true,
+    "logging": true,
+    "entities": ["dist/**/*.entity.js"]
+  }
